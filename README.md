@@ -1,11 +1,11 @@
-Assignment 1 - Flutter App with Back4App Integration
+Assignment 1 - Quick Task App with Back4App Integration
 
 Set Up Back4App
-Created a new app - 'Todo App'
+Created a new app - 'Quick Task'
 Created a new class ‘Task’ with columns title, description, status
 
 Then installed flutter and completed setup in system
-Created new flutter project 'todoapp'
+Created new flutter project 'Quick Task'
 Added dependency ‘parse_server_sdk’ in pubspec.yaml
 Refer Application ID and Client Key from Back4App and update the same in main.dart file for establishing connectivity between Back4App and Flutter
 
